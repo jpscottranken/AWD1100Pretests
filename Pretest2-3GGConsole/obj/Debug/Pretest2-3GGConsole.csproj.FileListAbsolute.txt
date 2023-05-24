@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\bin\Debug\Pretest2-3GGConsole.exe.config
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\bin\Debug\Pretest2-3GGConsole.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\bin\Debug\Pretest2-3GGConsole.pdb
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\obj\Debug\Pretest2-3GGConsole.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\obj\Debug\Pretest2-3GGConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\obj\Debug\Pretest2-3GGConsole.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\obj\Debug\Pretest2-3GGConsole.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-3GGConsole\obj\Debug\Pretest2-3GGConsole.pdb

@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\bin\Debug\Pretest1-3b.exe.config
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\bin\Debug\Pretest1-3b.exe
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\bin\Debug\Pretest1-3b.pdb
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1_3b.frmOddEvenOrZero.resources
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1_3b.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.exe
+C:\Users\jpscott\Desktop\AWD1100-Summer2023-Prestests\AWD1100Pretests\Pretest1-3b\obj\Debug\Pretest1-3b.pdb

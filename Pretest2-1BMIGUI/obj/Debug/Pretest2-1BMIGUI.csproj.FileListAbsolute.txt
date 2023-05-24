@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\bin\Debug\Pretest2-1BMIGUI.exe.config
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\bin\Debug\Pretest2-1BMIGUI.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\bin\Debug\Pretest2-1BMIGUI.pdb
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2_1BMIGUI.frmBMIGUI.resources
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2_1BMIGUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-1BMIGUI\obj\Debug\Pretest2-1BMIGUI.pdb

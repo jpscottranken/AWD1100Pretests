@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\bin\Debug\Pretest2-2GGGUI.exe.config
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\bin\Debug\Pretest2-2GGGUI.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\bin\Debug\Pretest2-2GGGUI.pdb
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2_2GGGUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.exe
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2-2GGGUI.pdb
+C:\Users\jpscott\Desktop\AWD1100Pretests\Pretest2-2GGGUI\obj\Debug\Pretest2_2GGGUI.frmGGGUI.resources
